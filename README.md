@@ -1,8 +1,4 @@
-# Fusion-Based-Blockchain-Integrated-Intrusion-Detection-System-IDS
 
-Here is a **clean recruiter-friendly, technical-focused README**, with **no timelines, no expo deliverables, no project planning** — only the architecture, problem statement, objectives, and tech stack.
-
----
 
 # **Fusion-Based Blockchain-Integrated Intrusion Detection System (IDS)**
 
